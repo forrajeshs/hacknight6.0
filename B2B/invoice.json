@@ -1,0 +1,32 @@
+{
+    "InvoiceId" : "INV01",
+    
+	"Seller":{
+         "ID":"B01",
+         "Name":"Buyer 01",
+		},
+	"Buyer":{
+         "ID":"S`01",
+         "Name":"Seller 01",
+		},	
+     "Items":[
+            {
+            "ID":"Item01",
+			"qty_name" : "Item 01"
+			"qty":"1"
+			"price": "10"
+            },
+            {
+            "ID":"Item02",
+			"qty_name" : "Item 02"
+			"qty":"1"
+			"price": "20"
+            },
+            {
+            "ID":"Item03",
+			"qty_name" : "Item 03"
+			"qty":"1"
+			"price": "30"
+            }			
+     ]
+}
